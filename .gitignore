@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/cache/
+data/*.db-wal
+data/*.db-shm
+data/raw_seed.html
+data/diag*.txt
+install.log
+warmup*.log
+.pytest_cache/
+.claude/

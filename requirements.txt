@@ -1,0 +1,14 @@
+anthropic>=0.40,<1.0
+httpx>=0.27,<0.29
+beautifulsoup4>=4.12,<5.0
+lxml>=5.2,<7.0
+fastembed>=0.4,<0.8
+opencc-python-reimplemented>=0.1.7,<0.2
+jieba>=0.42,<0.43
+rank-bm25>=0.2.2,<0.3
+numpy>=1.26,<3.0
+streamlit>=1.36,<2.0
+APScheduler>=3.10,<4.0
+python-dotenv>=1.0,<2.0
+PyYAML>=6.0,<7.0
+pytest>=8.0,<9.0
