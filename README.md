@@ -172,7 +172,6 @@ snapshot text. So editing a snapshot by hand is enough to make the check fire:
 python -m app.cli edit-snapshot \
   --url "https://www.edb.gov.hk/tc/edu-system/primary-secondary/applicable-to-primary/whole-day-schooling/index.html" \
   --find "好處" --replace "優點"
-python -m app.cli edit-snapshot --url "https://www.edb.gov.hk/tc/edu-system/primary-secondary/applicable-to-primary/whole-day-schooling/index.html" --find "好處" --replace "優點"
 python -m app.cli check
 ```
 
